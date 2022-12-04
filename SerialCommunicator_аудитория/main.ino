@@ -19,7 +19,7 @@ void check_serail(){
       Serial.print(val);
     }
   }
-
+    
 }
 
 void loop() { 
